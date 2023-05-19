@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/GameJam/UnrealTestRepo/ElProyectoGit/Content/StarterContent/ProneVenasdeAceroenelePene/LuzdeNoche.uasset",
+				"E:/GameJam/UnrealTestRepo/ElProyectoGit/Content/StarterContent/Maps/Minimal_Default.umap",
+				"E:/GameJam/UnrealTestRepo/ElProyectoGit/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"E:/GameJam/UnrealTestRepo/ElProyectoGit/Content/StarterContent/Props/Materials/M_TableRound.uasset",
 				"C:/Users/ALUMNOS/Documents/Unreal Projects/UnrealTestGit/ElProyectoGit/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/ALUMNOS/Documents/Unreal Projects/UnrealTestGit/ElProyectoGit/Content/StarterContent/Maps/Minimal_Default.umap"
 			]
