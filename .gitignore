@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+ElProyectoGit/Saved/AutoScreenshot.png
+ElProyectoGit/Saved/Autosaves/PackageRestoreData.json
+ElProyectoGit/Saved/Logs/ElProyectoGit.log
